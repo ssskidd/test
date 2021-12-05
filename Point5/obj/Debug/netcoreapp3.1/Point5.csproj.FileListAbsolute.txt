@@ -1,0 +1,14 @@
+D:\office\Point5\bin\Debug\netcoreapp3.1\Point5.exe
+D:\office\Point5\bin\Debug\netcoreapp3.1\Point5.deps.json
+D:\office\Point5\bin\Debug\netcoreapp3.1\Point5.runtimeconfig.json
+D:\office\Point5\bin\Debug\netcoreapp3.1\Point5.runtimeconfig.dev.json
+D:\office\Point5\bin\Debug\netcoreapp3.1\Point5.dll
+D:\office\Point5\bin\Debug\netcoreapp3.1\Point5.pdb
+D:\office\Point5\obj\Debug\netcoreapp3.1\Point5.csproj.AssemblyReference.cache
+D:\office\Point5\obj\Debug\netcoreapp3.1\Point5.GeneratedMSBuildEditorConfig.editorconfig
+D:\office\Point5\obj\Debug\netcoreapp3.1\Point5.AssemblyInfoInputs.cache
+D:\office\Point5\obj\Debug\netcoreapp3.1\Point5.AssemblyInfo.cs
+D:\office\Point5\obj\Debug\netcoreapp3.1\Point5.csproj.CoreCompileInputs.cache
+D:\office\Point5\obj\Debug\netcoreapp3.1\Point5.dll
+D:\office\Point5\obj\Debug\netcoreapp3.1\Point5.pdb
+D:\office\Point5\obj\Debug\netcoreapp3.1\Point5.genruntimeconfig.cache
