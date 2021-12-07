@@ -1,0 +1,14 @@
+D:\office\Point6\bin\Debug\netcoreapp3.1\Point6.exe
+D:\office\Point6\bin\Debug\netcoreapp3.1\Point6.deps.json
+D:\office\Point6\bin\Debug\netcoreapp3.1\Point6.runtimeconfig.json
+D:\office\Point6\bin\Debug\netcoreapp3.1\Point6.runtimeconfig.dev.json
+D:\office\Point6\bin\Debug\netcoreapp3.1\Point6.dll
+D:\office\Point6\bin\Debug\netcoreapp3.1\Point6.pdb
+D:\office\Point6\obj\Debug\netcoreapp3.1\Point6.csproj.AssemblyReference.cache
+D:\office\Point6\obj\Debug\netcoreapp3.1\Point6.GeneratedMSBuildEditorConfig.editorconfig
+D:\office\Point6\obj\Debug\netcoreapp3.1\Point6.AssemblyInfoInputs.cache
+D:\office\Point6\obj\Debug\netcoreapp3.1\Point6.AssemblyInfo.cs
+D:\office\Point6\obj\Debug\netcoreapp3.1\Point6.csproj.CoreCompileInputs.cache
+D:\office\Point6\obj\Debug\netcoreapp3.1\Point6.dll
+D:\office\Point6\obj\Debug\netcoreapp3.1\Point6.pdb
+D:\office\Point6\obj\Debug\netcoreapp3.1\Point6.genruntimeconfig.cache
