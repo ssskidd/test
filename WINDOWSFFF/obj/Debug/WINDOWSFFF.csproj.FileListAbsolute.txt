@@ -1,0 +1,10 @@
+D:\office\WINDOWSFFF\obj\Debug\WINDOWSFFF.csproj.AssemblyReference.cache
+D:\office\WINDOWSFFF\obj\Debug\WINDOWSFFF.Form1.resources
+D:\office\WINDOWSFFF\obj\Debug\WINDOWSFFF.Properties.Resources.resources
+D:\office\WINDOWSFFF\obj\Debug\WINDOWSFFF.csproj.GenerateResource.cache
+D:\office\WINDOWSFFF\obj\Debug\WINDOWSFFF.csproj.CoreCompileInputs.cache
+D:\office\WINDOWSFFF\bin\Debug\WINDOWSFFF.exe.config
+D:\office\WINDOWSFFF\bin\Debug\WINDOWSFFF.exe
+D:\office\WINDOWSFFF\bin\Debug\WINDOWSFFF.pdb
+D:\office\WINDOWSFFF\obj\Debug\WINDOWSFFF.exe
+D:\office\WINDOWSFFF\obj\Debug\WINDOWSFFF.pdb
